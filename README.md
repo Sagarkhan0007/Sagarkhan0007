@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Sagarkhan0007
+- 👋 Hi, I’m irfan khan
 - 👀 I’m interested in cyber security ethical hacking and coding an Data Science.
-- 🌱 I’m currently learning  data Scicne and python...
-- 💞️ I’m looking to collaborate on  data science...
-- 📫 How to reach me irfan.sagir@gmail.com and ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Sagarkhan0007/Sagarkhan0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning  data Scicne and python.
+- 💞️ I’m looking to collaborate on  data science.
+- 📫 How to reach me irfan.sagir@gmail.com and .
+- 😄 Pronouns: irfan sagar
+- ⚡ Fun fact:Movies, SEO, Data analytics, MS Excel and much more.
+irfan khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
